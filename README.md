@@ -5,4 +5,4 @@ javadoc provided for elaboration and clarification
 
 Tests in JUnit 
 
-Imports accounts from file, adjusts the balance automaticlly with agents, or manually in UI, a basic jFrame with buttons, combo boxes, and windows. 
+Imports accounts from file, adjusts the balance automatically with agents, or manually in UI which consists of a basic jFrame with buttons, combo boxes, and windows. 
